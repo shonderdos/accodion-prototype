@@ -1,0 +1,1 @@
+document.querySelector('sh-accordion').setAttribute('enhanced', '');
